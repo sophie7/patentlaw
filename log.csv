@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang='en'>
-<head>
-	<meta charset="utf-8">
-	<title>Patent Law</title>
-</head>
-
-<body>
-
-<h1>WHAT IS CLAIMED IS</h1>
-
+<p>WHAT IS CLAIMED IS:</p>
 <ol>
 <li>A method of preventing information exposure to an image capturing device associated with a laboratory device;</li>
 </ol>
@@ -68,7 +58,3 @@
 <p>A system comprising a laboratory device as claimed in any of the preceding claims 9-14 coupled to a computing device configured to store and display images captured by the image capturing device.</p>
 </li>
 </ol>
-
-
-</body>
-</html>
