@@ -1,47 +1,116 @@
-WHAT IS CLAIMED IS:
+ 1 . A system for controlling visibility of information in a work environment, the system comprising:
 
-1. A method of preventing information exposure to an image capturing device associated with a laboratory device;
+a robotic device connected to a network and configured to operate and interact in the work environment, the robotic device including a camera;
 
-the image capturing device capturing at least one still image or video during operation of the laboratory device; and
+a pilot at a workspace remote from the work environment, wherein the interaction of the pilot in the work environment is through the robotic device, and wherein the pilot and the robotic device share privileges and permissions for interactions in the work environment;
 
-preventing exposure of external information proximate to the laboratory device by obstructing a field of view of the image capturing device beyond a transparent member;
+a user interface presented to the pilot through a station configured to allow the pilot at the remote workspace to operate the robotic device;
 
-wherein the transparent member enables an internal view of the laboratory device from outside of the laboratory device.
+a primary polarizing filter adjustably attached to the camera;
 
-2. The method as claimed in claim 1, wherein the field of view of the image
+at least one light source remote from the robotic device; and
 
-capturing device beyond the transparent member is obstructed in real time.
+at least one secondary polarizing filter positioned between the at least one light source and the camera;
 
-3. The method as claimed in any of the preceding claims 1-2, wherein a user defines the filed of view.
+wherein the primary polarizing filter can be adjusted to selectively prevent transmission of images in the work environment to the pilot.
 
-4. The method as claimed in any of the preceding claims 1-3, wherein the field of view of the image capturing device is obstructed by one or more optical resources comprising a one-way mirror coupled to an inner wall of the transparent member.
+2 . The system of claim 1 further comprising a database connected to the network where privileges and permissions of the pilot are stored and can be accessed for the robotic device.
+claim 1
 
-5. The method as claimed in any of the preceding claims 1-3, wherein the field of view of the image capturing device is obstructed by one or more optical resources comprising a polarizing material coupled to an inner wall of the transparent member.
+3 . The system of claim 1, wherein the at least one light source comprises an electrically-generated light.
+claim 1
 
-6. The method as claimed in claim 5, wherein the image capturing device is
+4 . The system of claim 3, wherein the electrically-generated light comprises a display screen.
+claim 3
 
-coupled with a polarizing surface.
+5 . The system of claim 4, wherein the display screen comprises an LCD or LED display.
+claim 4
 
-7. The method as claimed in any of the preceding claims 1-6, wherein the image capturing device comprises a camera.
+6 . The system of claim 1, wherein the at least one light source comprises an infrared radiation source.
+claim 1
 
-8. The method as claimed in any of the preceding claims 1-7, wherein the external information comprises any object beyond the transparent member.
+7 . A system for selectively preventing visibility of information in a work environment, the system comprising:
 
-9. A laboratory device comprising:
+a robotic device connected to a network and configured to operate and interact in the work environment, the robotic device including a camera;
 
-at least one image capturing device associated with the laboratory device, to capture at least one still image or video during operation of the laboratory device;
+a pilot at a workspace remote from the work environment, wherein the interaction of the pilot in the work environment is through the robotic device, and wherein the pilot and the robotic device share privileges and permissions for interactions in the work environment;
 
-a transparent member coupled to the laboratory device, enabling an internal view into the laboratory device from outside the laboratory device; and
+a station providing a user interface configured to allow the pilot to operate the robotic device from the remote workspace;
 
-one or more optical resources coupled to the transparent member for obstructing a Field of View (FOV) of the at least one image capturing device beyond the transparent member preventing exposure of any external information proximate to the laboratory device.
+a primary polarizing filter adjustably attached to the camera;
 
-10. The laboratory device as claimed in claim 9, wherein the one or more optical resources comprises a one-way mirror coupled to an inner wall of the transparent member.
+at least one light source remote from the robotic device; and
 
-11. The laboratory device as claimed in any of the preceding claims 9-10, wherein the one or more optical resources comprises a polarizing material coupled to an inner wall of the transparent member.
+at least one secondary polarizing filter positioned between the at least one light source and the camera;
 
-The laboratory device as claimed in claim 11, wherein at least one image capturing device is coupled with a polarizing surface.
+wherein information in the work environment is proximate the at least one light source and at least one secondary polarizing filter;
 
-12. The laboratory device as claimed in any of the preceding claims 9-12, wherein the image capturing device comprises a camera.
+wherein the network is configured to store the physical location of information in the work environment;
 
-13. The laboratory device as claimed in any of the preceding claims 9-13, wherein the external information comprises any object beyond the transparent member.
+wherein the primary polarizing filter can be adjusted to selectively prevent transmission of information in the work environment to the pilot.
 
-14. A system comprising a laboratory device as claimed in any of the preceding claims 9-14 coupled to a computing device configured to store and display images captured by the image capturing device.
+8 . The system of claim 7 further comprising a database connected to the network where privileges and permissions of the pilot are stored and can be accessed for the robotic device.
+claim 7
+
+9 . The system of claim 8, wherein the at least one light source comprises an electrically-generated light.
+claim 8
+
+10 . The system of claim 9, wherein the electrically-generated light comprises a display screen.
+claim 9
+
+11 . The system of claim 10, wherein the display screen comprises an LCD or LED display.
+claim 10
+
+12 . The system of claim 10, wherein the physical location of the display screen is identified by barcode or RFID.
+claim 10
+
+13 . The system of claim 8, wherein the at least one light source comprises reflected light off a vertical surface.
+claim 8
+
+14 . The system of claim 13, wherein the vertical surface comprises a whiteboard.
+claim 13
+
+15 . The system of claim 14, wherein the physical location of the whiteboard is identified by barcode or RFID.
+claim 14
+
+16 . A system for controlling visibility of information in a work environment, the system comprising:
+
+a robotic device connected to a network and configured to operate and interact in the work environment, the robotic device including a camera;
+
+a pilot at a workspace remote from the work environment, wherein the interaction of the pilot in the work environment is through the robotic device, and wherein the pilot and the robotic device share privileges and permissions for interactions in the work environment;
+
+a user interface presented to the pilot through a station configured to allow the pilot at the remote workspace to operate the robotic device;
+
+a primary polarizing filter adjustably attached to the camera;
+
+at least one light source remote from the robotic device; and
+
+at least one secondary polarizing filter positioned between the at least one light source and the camera;
+
+at least one person co-located with the robotic device in the work environment;
+
+wherein the at least one person co-located with the robotic device in the work environment can adjust the primary polarizing filter to selectively prevent transmission of images of information in the work environment to the pilot.
+
+17 . The system of claim 16 further comprising a database connected to the network where privileges and permissions of the pilot are stored and can be accessed for the robotic device.
+claim 16
+
+18 . The system of claim 17, wherein the at least one light source comprises an electrically-generated light.
+claim 17
+
+19 . The system of claim 18, wherein the electrically-generated light comprises a display screen.
+claim 18
+
+20 . The system of claim 19, wherein the display screen comprises an LCD or LED display.
+claim 19
+
+21 . A system for controlling visibility of information in an environment, the system comprising:
+
+a mobile device connected to a network and configured to operate and interact in the environment, the mobile device including a camera;
+
+a primary polarizing filter attached to the camera;
+
+at least one light source remote from the mobile device; and
+
+at least one secondary polarizing filter positioned between the at least one light source and the camera;
+
+wherein the primary polarizing filter can be adjusted to selectively prevent transmission of images in the environment.
