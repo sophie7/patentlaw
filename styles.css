@@ -3,7 +3,10 @@
 	grid-template-columns: repeat(4, 1fr); /* This will split the page into three equal-width columns */
       }
       
-      .column {
+.column {
 	/* Add styling for each column if needed */
       }
-      
+.paperwhite {
+	color: #F6efdf; /* paperwhite color code */
+      }
+       
