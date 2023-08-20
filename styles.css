@@ -1,3 +1,7 @@
+@font-face {
+	font-family: 'bdzc';
+	src: url('霸道总裁.ttf') format('truetype'); /* Update with your font file path */
+      }
 .container {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr); /* This will split the page into three equal-width columns */

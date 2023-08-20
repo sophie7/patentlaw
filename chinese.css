@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'bdzc1';
+	src: url('霸道总裁.ttf') format('truetype'); /* Update with your font file path */
+      }
+pre{
+	font-family: 'bdzc', monospace;
+}
