@@ -1,7 +1,11 @@
 @font-face {
-	font-family: 'bdzc1';
+	font-family: 'bdzc';
 	src: url('霸道总裁.ttf') format('truetype'); /* Update with your font file path */
       }
-pre{
-	font-family: 'bdzc', monospace;
+h2 {
+	font-size: 80px;
+}
+pre {
+	font-size: 40px;
+	font-family: bdzc;
 }
