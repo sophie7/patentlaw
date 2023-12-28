@@ -2,6 +2,11 @@
 	font-family: 'bdzc';
 	src: url('霸道总裁.ttf') format('truetype'); /* Update with your font file path */
       }
+@font-face {
+	font-family: 'Cookie'; /* Choose a name for your font */
+	src: url('https://fonts.googleapis.com/css?family=Cookie'); /* Specify the path to your font file */
+	/* Add additional font formats (e.g., format('ttf')) for cross-browser compatibility */
+      }
 .container {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr); /* This will split the page into three equal-width columns */
